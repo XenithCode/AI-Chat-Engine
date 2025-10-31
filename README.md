@@ -82,4 +82,4 @@ AI-Chat-Engine/
 
 ## 许可证
 
-本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)，详情请查看 `LICENSE` 文件（若存在）。
+本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)
